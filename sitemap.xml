@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/</loc>
-<lastmod>2016-04-18T22:30:59-00:00</lastmod>
+<lastmod>2016-04-20T21:35:39-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/archives.html</loc>
-<lastmod>2016-04-18T22:30:59-00:00</lastmod>
+<lastmod>2016-04-20T21:35:39-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/tags.html</loc>
-<lastmod>2016-04-18T22:30:59-00:00</lastmod>
+<lastmod>2016-04-20T21:35:39-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/categories.html</loc>
-<lastmod>2016-04-18T22:30:59-00:00</lastmod>
+<lastmod>2016-04-20T21:35:39-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -39,6 +39,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>/2016/04/Python_shebang_distinction.html</loc>
+<lastmod>2016-04-20T21:32:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+
+<url>
 <loc>/2016/04/Zotero_baiduyun.html</loc>
 <lastmod>2016-04-18T21:05:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
@@ -46,8 +53,22 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>/category/python.html</loc>
+<lastmod>2016-04-20T21:32:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>/category/tools.html</loc>
 <lastmod>2016-04-18T21:05:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>/tag/python.html</loc>
+<lastmod>2016-04-20T21:32:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -68,7 +89,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/author/dtree.html</loc>
-<lastmod>2016-04-18T21:05:00+08:06</lastmod>
+<lastmod>2016-04-20T21:32:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
