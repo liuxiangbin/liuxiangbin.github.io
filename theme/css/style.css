@@ -261,8 +261,8 @@ th {
 }
 @font-face {
   font-family: 'Glyphicons Halflings';
-  src: url('../fonts/glyphicons-halflings-regular.eot');
-  src: url('../fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('../fonts/glyphicons-halflings-regular.woff2') format('woff2'), url('../fonts/glyphicons-halflings-regular.woff') format('woff'), url('../fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('../fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular') format('svg');
+  src: url('../font/glyphicons-halflings-regular.eot');
+  src: url('../font/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('../fonts/glyphicons-halflings-regular.woff2') format('woff2'), url('../fonts/glyphicons-halflings-regular.woff') format('woff'), url('../fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('../fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular') format('svg');
 }
 .glyphicon {
   position: relative;
@@ -7360,4 +7360,25 @@ a:hover {
 .separator {
   margin-bottom: 30px;
   margin-top: 30px;
+}
+
+#gototop { 
+  position: fixed; 
+  z-index: 1000; 
+  right: 40px; 
+  bottom: 60px; 
+  display: block; 
+  width: 55px; 
+  height: 55px; 
+}
+
+#gototop a { 
+  display: block; 
+  width: 55px; 
+  height: 55px; 
+  background: url(../images/back-top.png) no-repeat left top; 
+}
+
+#gototop a:hover { 
+  background: url(../images/back-top.png) no-repeat left bottom; 
 }
